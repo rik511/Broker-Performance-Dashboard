@@ -18,5 +18,6 @@ The objective of this dashboard is to provide an interactive and insightful over
 - **Detailed Analysis**: Inclusion of GWP Difference Percentage to compare actual vs. planned performance.
 - **User-Friendly Design**: Organized layout with interactive features for in-depth analysis.
 
+![Image](https://github.com/rik511/Broker-Performance-Dashboard/assets/132072345/433dd6a1-d083-49cf-a24a-2e02ad81463b)
 
 
