@@ -17,3 +17,5 @@ The objective of this dashboard is to provide an interactive and insightful over
 - **Visual Clarity**: Consistent and professional color scheme for easy interpretation.
 - **Detailed Analysis**: Inclusion of GWP Difference Percentage to compare actual vs. planned performance.
 - **User-Friendly Design**: Organized layout with interactive features for in-depth analysis.
+
+![SCREENSHOT](https://github.com/rik511/Broker-Performance-Dashboard/assets/132072345/5cdb492e-5c3a-48ed-a022-d8c28c2dd3ae)
